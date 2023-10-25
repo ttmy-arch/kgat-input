@@ -2,7 +2,7 @@
 The input datasets for KGAT-pytorch: https://github.com/LunaBlack/KGAT-pytorch
 
 ## Contents
-* ```kg-all, kg-mal, kg-wikidata and none```
+* ```kg-all, kg-mal, kg-wikidata, none```
   * Quantitative Aspect: Recommendation Experiment 1
 * ```wikidata-ablation_outX```
   * Quantitative Aspect: Recommendation Experiment 2
