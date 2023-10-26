@@ -1,13 +1,13 @@
 # What is this?
 The input datasets for KGAT-pytorch: https://github.com/LunaBlack/KGAT-pytorch
 
-## Contents
+## Datasets
 * ```kg-all, kg-mal, kg-wikidata, none```
-  * Quantitative Aspect: Recommendation Experiment 1
+  * for "4.2 Quantitative Aspect: Recommendation Experiment 1"
 * ```wikidata-ablation_outX```
-  * Quantitative Aspect: Recommendation Experiment 2
+  * for "4.3 Qualitative Aspect: Recommendation Experiment 2"
   * ```outX``` means remapped id of each property excluded respectively.
-  * A map of property is ```relation_list.txt```.
+  * See ```relation_list.txt``` for property mappings.
 
 ##  Usage
 1. Download this datasets
