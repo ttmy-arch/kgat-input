@@ -15,3 +15,5 @@ The input datasets for KGAT-pytorch: https://github.com/LunaBlack/KGAT-pytorch
 3. Replace ```KGAT-pytorch/datasets``` with  ```kgat-input/datasets```
 4. Run KGAT for recommendation
 
+## Others
+You can construct a knowledge graph loading ```rdf/kg-all_0927.ttl``` into GraphDB.
